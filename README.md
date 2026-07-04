@@ -42,13 +42,6 @@
 - **[cartel-detection-ml](https://github.com/kirastk/cartel-detection-ml)** — выявление картельных сговоров в госзакупках (44-ФЗ) с помощью ML. Дисбаланс 1.7%, SMOTE, XGBoost; лучшая модель повысила концентрацию картелей в проверочной выборке в 10.6 раза.
 - **[sewing-marketplace](https://github.com/kirastk/sewing-marketplace)** — продуктовая проработка маркетплейса для швей и клиентов (эскроу-оплата, AI-генератор ТЗ). Командный проект, моя роль — аналитика и продукт.
 
-[![cartel-detection-ml](https://github-readme-stats.vercel.app/api/pin/?username=kirastk&repo=cartel-detection-ml)](https://github.com/kirastk/cartel-detection-ml)
-[![sewing-marketplace](https://github-readme-stats.vercel.app/api/pin/?username=kirastk&repo=sewing-marketplace)](https://github.com/kirastk/sewing-marketplace)
-
-## GitHub
-
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=kirastk&show_icons=true&hide_border=true)
-
 ## Контакты
 
 - Email: kirillkorenkovaga@gmail.com
