@@ -4,6 +4,7 @@
 
 ![Open to internships](https://img.shields.io/badge/Open_to-Data_Analytics_internships-brightgreen?style=flat-square)
 ![Location](https://img.shields.io/badge/Saint_Petersburg-informational?style=flat-square)
+![Languages](https://img.shields.io/badge/Russian_native-English_C1-lightgrey?style=flat-square)
 
 I turn raw data into decisions — from extraction and cleaning through to dashboards
 and machine learning models. I also build the products around them: I am the lead
