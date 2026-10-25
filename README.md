@@ -27,7 +27,7 @@ manufacturer) and a student at **HSE University**, "Data-Driven Company Manageme
 
 ## Featured projects
 
-### [Maestria — custom tailoring marketplace](https://github.com/kirastk/sewing-marketplace) · [live site](https://maestriaclub.ru)
+### [Maestria — custom tailoring marketplace](https://github.com/kirakorenkov/sewing-marketplace) · [live site](https://maestriaclub.ru)
 
 A two-sided marketplace connecting customers with tailors for made-to-measure
 clothing. Live in production with real master profiles, a full order pipeline
@@ -35,14 +35,24 @@ clothing. Live in production with real master profiles, a full order pipeline
 **My role: lead developer and product owner — ~530 of 633 commits.**
 `Expo / React Native` · `TypeScript` · `Supabase` · `PostgreSQL + RLS`
 
-### [Cartel detection in public procurement](https://github.com/kirastk/cartel-detection-ml)
+### [Alfa Impulse — personalised news analytics for business](https://github.com/kirakorenkov/alfa-impulse-news-analytics) · Alfa-Bank hackathon 2026
+
+A service that filters ~10k news items a week down to the ones that matter for a
+specific holding company and user role, and explains the impact path — through
+which risk factors and revenue share an event hits the business. Ranking over 15
+risk factors plus an LLM agent with self-verification and traceable sources.
+**Precision@5 against expert labels — 90% (random — 57%). Team of 4; I led most of
+the development.**
+`Python` · `FastAPI` · `LLM agent` · `Docker`
+
+### [Cartel detection in public procurement](https://github.com/kirakorenkov/cartel-detection-ml)
 
 ML models that flag bid-rigging cartels in public procurement auctions using price,
 structural and graph features. 15,138 auctions with a 1.7% positive rate; the best
 model concentrates cartels in the review queue **10.6×** over random review.
 `Python` · `scikit-learn` · `XGBoost` · `SMOTE`
 
-### [BI dashboards](https://github.com/kirastk/bi-dashboards)
+### [BI dashboards](https://github.com/kirakorenkov/bi-dashboards)
 
 Power BI dashboards analysing restaurant ratings against venue features and customer
 demographics, built on a public UCI dataset.
@@ -71,6 +81,8 @@ demographics, built on a public UCI dataset.
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Experience & education
