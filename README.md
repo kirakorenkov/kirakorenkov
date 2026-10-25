@@ -35,6 +35,15 @@ clothing. Live in production with real master profiles, a full order pipeline
 **My role: lead developer and product owner — ~530 of 633 commits.**
 `Expo / React Native` · `TypeScript` · `Supabase` · `PostgreSQL + RLS`
 
+### [MeshQC — quality control for 3D data](https://github.com/kirakorenkov/sber-ai-challenge-meshqc) · Sber AI Challenge 2026
+
+**1st place in the main stage, finalist.** An ML system that detects 10 defect types in a
+3D model and decides whether it is fit for training generative models — 43k objects with
+noisy crowd labels. Ensemble of three fine-tuned DINOv2 networks and LightGBM on geometric
+features, with honest cross-validation. Packaged as the MeshQC web app: a verdict for any
+3D file in 2–3 s, an explanation of the decision, auto-repair and batch checks with CSV export.
+`PyTorch` · `DINOv2` · `LightGBM` · `FastAPI` · `three.js`
+
 ### [Alfa Impulse — personalised news analytics for business](https://github.com/kirakorenkov/alfa-impulse-news-analytics) · Alfa-Bank hackathon 2026
 
 A service that filters ~10k news items a week down to the ones that matter for a
@@ -71,6 +80,8 @@ demographics, built on a public UCI dataset.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
 
 **BI & visualisation**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
